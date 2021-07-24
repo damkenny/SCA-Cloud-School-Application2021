@@ -1,1 +1,1 @@
-console.log('Welcome to SCA Cloud School Application')
+console.log('Welcome to SCA Cloud School Application")
