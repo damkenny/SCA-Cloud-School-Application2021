@@ -18,7 +18,7 @@ The below command was use to create an image which was runned and tested in a co
 
 C:\Users\kenny\sca3\SCA-Cloud-School-Application\docker>docker tag mujy:V1 kehindeafusat/mujy then I pushed the first image to docker using docker push kehindeafusat/mujy
 
-Output:Welcome to "Welcome to SCA Cloud School Application".
+Output:"Welcome to SCA Cloud School Application".
 
 Step 3. Testing the image and running the docker container.
 
