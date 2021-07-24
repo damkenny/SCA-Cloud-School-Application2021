@@ -16,7 +16,7 @@ The below command was use to create an image which was runned and tested in a co
 
    cmd -- docker build . -t kehindeafusat/mujy:V1 . This created the first image, then I created a tag muji:V1 to create on the image on local repository which requires me creating a tag TARGET_IMAGE that refers to SOURCE_IMAGE
 
-C:\Users\kenny\sca3\SCA-Cloud-School-Application\docker>docker tag mujy:V1 kehindeafusat/mujy then I pushed the first image to docker using docker push kehindeafusat/mujy
+C:\Users\kenny\sca3\SCA-Cloud-School-Application\docker>docker tag mujy:V1 kehindeafusat/mujy then I pushed the first image to docker using docker push kehindeafusat/mujy:V1 ans ran thr container.
 
 Output:"Welcome to SCA Cloud School Application".
 
