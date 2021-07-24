@@ -38,4 +38,4 @@ Step 4. Pushing the final images to the docker container.
 
 In the dockerhub, a repository called kehindeafusat/mujy was created to allow the pushing of images from the container to docker using the command -- docker push kehindeafusat/mujy
 
-link to my dockerhub: https://hub.docker.com/repository/docker/kehindeafusat/mujy/general
+link to my dockerhub: https://hub.docker.com/repository/docker/kehindeafusat/mujy
